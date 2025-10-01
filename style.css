@@ -1,0 +1,91 @@
+body {
+    text-align: center;
+    background-color: antiquewhite;
+    margin: 0;
+}
+
+.btn {
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 5px solid black;
+    margin: 1rem;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+}
+
+.red {
+    background-color: #d95980;
+}
+
+.yellow {
+    background-color: #f99b45;
+}
+
+.purple {
+    background-color: #819ff9;
+}
+
+.green {
+    background-color: #63aac0;
+}
+
+.flash {
+    background-color: white;
+}
+
+.userflash {
+    background-color: rgb(2, 255, 2);
+}
+
+
+/*Extra Styling */
+
+.highscore {
+    background: rgba(255, 255, 255, 0.421);
+    border-radius: 8px;
+    padding: 0.8rem 1.5rem;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 160px;
+}
+
+.highscore h3 {
+    font-size: 1.7rem;
+    font-weight: 500;
+    margin-bottom: 0.3rem;
+    color: #000000;
+}
+
+h4 {
+    font-size: 1.7rem;
+    font-weight: 700;
+    color: #ffffff;
+    /* green highlight */
+}
+
+.heading {
+    background: rgba(255, 255, 255, 0.421);
+    border-radius: 8px;
+    padding: 0.8rem 1.5rem;
+    text-align: center;
+}
+
+.score {
+    background-color: black;
+    /* black background */
+    border-radius: 50%;
+    /* makes it round */
+    width: 60px;
+    /* adjust size */
+    height: 60px;
+    display: flex;
+    /* center the text */
+    justify-content: center;
+    align-items: center;
+}
