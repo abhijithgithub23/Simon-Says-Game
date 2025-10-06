@@ -17,8 +17,7 @@ The classic *Simon Says* concept challenges players to remember and repeat an in
 ## 🛠️ Technologies Used
 - HTML5  
 - CSS3  
-- JavaScript (Vanilla JS)
-
+- JavaScript 
 ---
 
 ## 📂 How to Run the Project
